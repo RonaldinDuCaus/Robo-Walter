@@ -102,4 +102,5 @@ void loop() {
   Serial.print(" S11:"); Serial.println(pos11);
 
   delay(50); // Suavidade
+  //Teste isso não serve de nada, é literalmente só um texte  - kaio
 }
